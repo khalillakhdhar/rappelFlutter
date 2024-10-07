@@ -5,5 +5,5 @@ Exercice
 en s'inspirant de ce code vous aller:
 -créer une application avec:
 page 1 accueil navigation
-deux page somme et parite
+deux page somme et parité
 retour à l'accueil dans chaque page
